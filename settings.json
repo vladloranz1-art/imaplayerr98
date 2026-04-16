@@ -8,7 +8,7 @@
   "server": {
     "ip": "ShardedSmp.aternos.me",
     "port": 4434,
-    "version": "",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
